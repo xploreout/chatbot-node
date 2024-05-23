@@ -1,0 +1,16 @@
+{
+  "name": "chatbot-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5"
+  }
+}
