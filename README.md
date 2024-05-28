@@ -8,4 +8,4 @@ The api-key-secret could be store in ~/.zshrc
 
 `npm run start`
 
-![Image](./github.com/screen-test.jpg)
+![Image](./github/screen-test.jpg)
