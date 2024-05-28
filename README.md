@@ -10,6 +10,8 @@ The api-key-secret could be store in .env
 
 `npm run start`
 
-![Image](./github/screen-test.jpg)
+
+![screen-test](https://github.com/xploreout/chatbot-node/assets/9699368/cbf3eaf3-7ff4-4a86-bf97-f784854cdc57)
+
 
 
