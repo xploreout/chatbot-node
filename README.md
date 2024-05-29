@@ -15,3 +15,33 @@ The api-key-secret could be store in .env
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~/projects/openai/chatbot-node
